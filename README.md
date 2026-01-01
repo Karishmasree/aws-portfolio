@@ -16,3 +16,11 @@ This is my personal portfolio website created using HTML, CSS, and JavaScript an
 4. Uploaded website files
 # aws-portfolio
 My AWS portfolio website hosted using Amazon S3
+
+## 🔗 Live AWS Website
+
+🌐 **Website URL:**  
+http://karishma-portfolio-aws.s3-website.eu-north-1.amazonaws.com/
+
+📦 **GitHub Repository:**  
+https://github.com/Karishmasree/aws-portfolio
